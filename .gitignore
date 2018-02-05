@@ -13,3 +13,14 @@ hs_err_pid*
 
 bin/
 .project
+\.idea/
+
+epicsellchest/target/
+
+*.iml
+
+epicsellchest/\.DS_Store
+
+\.DS_Store
+
+epicsellchest/src/main/resources/Data\.yml
