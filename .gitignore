@@ -13,3 +13,8 @@ hs_err_pid*
 
 bin/
 .project
+\.idea/
+
+epicsellchest/target/
+
+*.iml
