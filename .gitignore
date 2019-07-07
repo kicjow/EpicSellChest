@@ -14,6 +14,7 @@ hs_err_pid*
 bin/
 .project
 \.idea/
+\target/
 
 epicsellchest/target/
 
@@ -24,3 +25,5 @@ epicsellchest/\.DS_Store
 \.DS_Store
 
 epicsellchest/src/main/resources/Data\.yml
+
+dependency-reduced-pom\.xml
